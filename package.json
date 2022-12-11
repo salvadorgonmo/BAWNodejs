@@ -21,7 +21,7 @@
     "bcrypt": "^3.0.6",
     "body-parser": "^1.15.0",
     "consign": "^0.1.2",
-    "express": "^4.13.4",
+    "express": "^4.17.3",
     "jwt-simple": "^0.4.1",
     "passport": "^0.3.2",
     "passport-jwt": "^2.0.0",
