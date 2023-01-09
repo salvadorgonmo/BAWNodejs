@@ -24,7 +24,7 @@
     "express": "^4.13.4",
     "jwt-simple": "^0.4.1",
     "passport": "^0.3.2",
-    "passport-jwt": "^2.0.0",
+    "passport-jwt": "^4.0.1",
     "sequelize": "^5.15.0",
     "sqlite3": "^4.0.9"
   },
